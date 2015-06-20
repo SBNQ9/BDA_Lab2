@@ -1,0 +1,4 @@
+Actually our goal is to take the city name through speech to text API
+and the text will be processed to Weather API to know the temperature of the city
+
+SppechToText is not executing properly as it have an error with the server. I think this is the issue with the API key.
